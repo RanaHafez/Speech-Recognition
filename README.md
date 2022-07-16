@@ -1,5 +1,4 @@
 # Recognize What I Say.
-## Access From Here http://192.168.1.32:5000 
 ## Smartest Methods First Assignment
 
 ### This is a Flask Web App that recognizes speach in 2 different languages. Ar and En.
